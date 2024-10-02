@@ -1,1 +1,2 @@
-library(janitor)
+library(usethis)
+usethis::use_github()
